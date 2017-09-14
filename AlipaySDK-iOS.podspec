@@ -2,8 +2,8 @@
 Pod::Spec.new do |s|
 
 	s.name         = "AlipaySDK-iOS"
-	s.version      = "0.0.1"
-	s.summary      = "AlipaySDk for iOS v15.2.1"
+	s.version      = "0.0.2"
+	s.summary      = "AlipaySDk for iOS v15.2.1.（适用于集成了百川sdk，出现UTDID冲突）"
 	s.homepage     = "https://github.com/bing900717/AlipaySDk"
 	s.license      = "MIT"
 	s.author       = { "xiaobing.yao" => "bing900717@gmail.com" }
