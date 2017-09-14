@@ -14,4 +14,5 @@ Pod::Spec.new do |s|
 	s.libraries = "z", "c++"
 	s.requires_arc = true
 	s.vendored_frameworks = "AlipaySDK/AlipaySDK.framework"
+	s.dependency 'AlicloudFeedback', '~> 3.2.0'
 end
